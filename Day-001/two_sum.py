@@ -1,3 +1,9 @@
+# LeetCode 1 - Two Sum
+# Difficulty: Easy
+# Topic: Array, Hash Table
+# Time Complexity: O(n)
+# Space Complexity: O(n)
+
 class Solution:
     def twoSum(self, nums, target):
         seen = {}
