@@ -100,6 +100,9 @@ https://github.com/Omkar090607
 **LinkedIn:**
 https://www.linkedin.com/in/omkar-awaze-6322103b1/
 
+**Instagram:**
+https://www.instagram.com/iam_omkar19/
+
 ---
 
 **Consistent Practice. Stronger Problem Solving.**
