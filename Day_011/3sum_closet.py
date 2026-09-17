@@ -23,6 +23,7 @@ class Solution:
 
                 if abs(current - target) < abs(closest - target):
                     closest = current
+                    
 
                 if current < target:
                     left += 1
