@@ -22,6 +22,14 @@ def git(*args, env=None):
 
 
 def main():
+    if "--confirm" not in sys.argv[1:]:
+        print(
+            "No changes made. This is a one-time history rewrite utility. "
+            "Normal git commits already use the current date and time. "
+            "Use --confirm only when you intentionally want to rewrite history."
+        )
+        return 0
+
     try:
         git("rev-parse", "--git-dir")
         commits = git("rev-list", "HEAD").splitlines()
