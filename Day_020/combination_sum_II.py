@@ -1,4 +1,4 @@
-# LeetCode 40 - Combination Sum II
+# LeetCode - Combination Sum II
 # Difficulty: Medium
 # Topics: Array, Backtracking
 # Runtime: 3ms, Beats 83.72%
