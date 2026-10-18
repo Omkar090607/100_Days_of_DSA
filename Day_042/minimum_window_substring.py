@@ -1,3 +1,9 @@
+# LeetCode - Minimum Window Substring
+# Difficulty: Hard
+# Topics: Hash Table, String, Sliding Window
+# Runtime: 64ms, Beats 65.54%
+# Memory: 19.20MB, Beats 99.92%
+
 class Solution:
     def minWindow(self, s, t):
         from collections import Counter
@@ -31,3 +37,6 @@ class Solution:
             return ""
 
         return s[start:start + min_length]
+
+# Time Complexity: O(m + n)
+# Space Complexity: O(n)
