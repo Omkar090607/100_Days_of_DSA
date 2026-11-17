@@ -64,8 +64,8 @@ Each day's solutions are organized into separate folders for easy navigation.
 
 | Day | Status |
 |---|---|
-| Day 001–Day 053 | Completed |
-| Day 054–Day 100 | In Progress |
+| Day 001–Day 072 | Completed |
+| Day 073–Day 100 | In Progress |
 
 *Update this tracker as you complete each day's problem.*
 
